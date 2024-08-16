@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    font-family: 'Orbitron', sans-serif;
+}
+.container{
+    color: #899cef;
+    text-align: center;
+    border: 2px solid black;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("./galaxy.webp");
+}
+span{
+    border-bottom: 4px solid white;
+}
+img{
+    margin-top: 20px;
+    height: 30px;
+    width: 150px;
+}
+button{
+    margin: 10px 0px;
+    border: none;
+    font-family: inherit;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: white;
+    color: inherit;
+}
+h1{
+    margin-top: 50px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    align-items: center;
+    color: #899cef;
+}
